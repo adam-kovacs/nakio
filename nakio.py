@@ -2,7 +2,7 @@
 # Name:        Nakio
 #
 # Author:      Adam Kovacs
-# Version:     1.0
+# Version:     1.1
 #
 # Created:     08/03/2018
 # Copyright:   ---
